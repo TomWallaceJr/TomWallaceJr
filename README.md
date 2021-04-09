@@ -1,10 +1,6 @@
 ### Hello! 👋 
 I am a father, husband, poker player, investor, and full stack web developer looking for an entry level position as a software engineer. I enjoy building web application using JavaScript, React, Node, Express, and Postgres. I am also a crypto bug and ultimately want to play a part in the decentralized future.
 
-<!--
-**TomWallaceJr/TomWallaceJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... MWall Drawings - A personal portfolio and e-commerce website for my wife's artwork.
 - 🌱 I’m currently learning ... React Hooks and Bootstrap
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
                          
 
 - ⚡ Fun fact: ... I spent more hours in poker rooms over the past decade than sleeping
--->
+
