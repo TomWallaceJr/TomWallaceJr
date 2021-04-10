@@ -1,5 +1,5 @@
 ### Hello! 👋 
-I am a father, husband, poker player, investor, and full stack web developer looking for an entry level position as a software engineer. I enjoy building web application using JavaScript, React, Node, Express, and Postgres. I am also a crypto bug and ultimately want to play a part in the decentralized future.
+I am a father, husband, poker player, investor, and full stack web developer looking for an entry level position as a software engineer. I enjoy building web application using JavaScript, React, Node, Express, and Postgres. I am also a crypto bug and ultimately want to play a part in the decentralized revolution.
 
 
 - 🔭 I’m currently working on ... 
