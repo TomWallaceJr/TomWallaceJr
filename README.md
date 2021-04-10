@@ -3,22 +3,22 @@ I am a father, husband, poker player, investor, and full stack web developer loo
 
 
 - 🔭 I’m currently working on ... 
-              - 'MWall Drawings'.    - A personal portfolio and e-commerce website for my wife's artwork.
-              - 'Dealer Tokes'       - A income tracking web and mobile application designed for Poker Dealers
-              - 'Drop Dead Desserts' - An e-commerce website for my sisters homemade dessert business
+            <br>   - 'MWall Drawings'.    - A personal portfolio and e-commerce website for my wife's artwork.
+            <br>   - 'Dealer Tokes'       - A income tracking web and mobile application designed for Poker Dealers
+            <br>   - 'Drop Dead Desserts' - An e-commerce website for my sisters homemade dessert business
 
 - 🌱 I’m currently learning ...
-              -  React.js 
-              -  JavaScript
-              -  Bootstrap
-              -  Shopify
+              <br> -  React.js 
+              <br> -  JavaScript
+              <br> -  Bootstrap
+              <br> -  Shopify
 
 - ⚡ Hobbies: ... 
-              - Poker
-              - Fantasy Football
-              - Traveling
-              - Reading
-              - Podcasts
+              <br> - Poker
+              <br> - Fantasy Football
+              <br> - Traveling
+              <br> - Reading
+              <br> - Podcasts
 
 - 📫 How to reach me: ... [Twitter](https://twitter.com/TomWallaceJr2) [LinkedIn](https://www.linkedin.com/in/thomaswallacejr/)
 
