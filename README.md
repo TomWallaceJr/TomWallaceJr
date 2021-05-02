@@ -23,3 +23,4 @@ I am a father, husband, poker player, investor, and full stack web developer loo
 - 📫 How to reach me: ... [Twitter](https://twitter.com/TomWallaceJr2) [LinkedIn](https://www.linkedin.com/in/thomaswallacejr/)
 
 
+[My Resume](https://docs.google.com/document/d/e/2PACX-1vSdVMiEPCH97kBhS6PKny50Ixiee0C0QBGTARiz1zJRW_21vaLwse_cwFsm8CfnZK2JlJhNHon2Xp3u/pub)
