@@ -1,7 +1,8 @@
 ### Hello! 👋 
-I am a father, husband, poker player, investor, and full stack web developer looking for an entry level position as a software engineer. I enjoy building web applications using React, Node, Express, and Postgres. 
-Currently a Jr UX Developer at 42 Growth Strategies.
-I am also a crypto bug and ultimately want to play a part in the decentralized revolution.
+I am a father, husband, poker player, investor, and full stack web developer looking for an entry level position as a software engineer.
+<br> I enjoy building web applications using React, Node, Express, and Postgres. 
+<br> Currently a Jr UX Developer at 42 Growth Strategies.
+<br> I am also a crypto bug and ultimately want to play a part in the decentralized revolution.
 
 
 - 🔭 I’m currently working on ... 
