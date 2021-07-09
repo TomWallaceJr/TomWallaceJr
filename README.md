@@ -14,8 +14,8 @@ I am a father, husband, poker player, investor, and full stack web developer loo
               <br> -  Next.js 
               <br> -  GraphQL
               <br> -  Bootstrap
-              <br> -  Shopify
-              <br> -  SASS
+              <br> -  React Redux for state management
+              <br> -  SASS / SCSS
 
 - ⚡ Hobbies: ... 
               <br> - Poker
