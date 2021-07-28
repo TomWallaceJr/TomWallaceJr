@@ -13,7 +13,6 @@ I am a father, husband, poker player, investor, and full stack web developer loo
 - 🌱 I’m currently learning ...
               <br> -  Next.js 
               <br> -  GraphQL
-              <br> -  Bootstrap
               <br> -  React Redux for state management
               <br> -  SASS / SCSS
 
@@ -29,4 +28,3 @@ I am a father, husband, poker player, investor, and full stack web developer loo
 - [Personal Website](http://www.tomwallacejr.com/)
 
 
-[My Resume](https://docs.google.com/document/d/e/2PACX-1vSdVMiEPCH97kBhS6PKny50Ixiee0C0QBGTARiz1zJRW_21vaLwse_cwFsm8CfnZK2JlJhNHon2Xp3u/pub)
