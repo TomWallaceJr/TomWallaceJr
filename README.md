@@ -1,5 +1,5 @@
 ### Hello! 👋 
-I am a father, husband, poker player, investor, and full stack web developer.
+I am a father, husband, poker player, and full stack web developer.
 <br> I enjoy building full stack web applications using the PERN tech stack. 
 <br> I am also a crypto and blockchain enthusiast.
 
