@@ -1,24 +1,18 @@
 ### Hello! 👋 
-I am a father, husband, poker player, and full stack web developer.
-<br> I enjoy building full stack web applications using the PERN tech stack. 
-<br> I am also a crypto and blockchain enthusiast.
+
+<br> I am a javascript developer who enjoys building full stack web applications using the PERN tech stack. 
 
 
-- 🌱 I’m currently learning ...
-              <br> -  Next.js 
-              <br> -  GraphQL
-              <br> -  React Redux for state management
+- 🌱 I’m currently working with ...
+              <br> -  Reactjs
+              <br> -  Nextjs 
+              <br> -  Node
+              <br> -  Bootstrap
               <br> -  Tailwind CSS
 
-- ⚡ Hobbies: ... 
-              <br> - Poker
-              <br> - Sports
-              <br> - Fantasy Football
-              <br> - Traveling
-              <br> - Reading
-              <br> - Podcasts
 
-- 📫 How to reach me: ... [Twitter](https://twitter.com/TomWallaceJr2) [LinkedIn](https://www.linkedin.com/in/thomaswallacejr/)
+
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/thomaswallacejr/)
 - [Personal Website](http://www.tomwallacejr.com/)
 
 
