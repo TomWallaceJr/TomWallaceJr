@@ -7,10 +7,9 @@
               <br> -  React
               <br> -  Next.js 
               <br> -  Nodejs
-              <br> -  Tailwind CSS for styling
+              <br> -  TailwindCSS 
               <br> -  Express.js for backend database integration/interaction, RESTful API development, and authentication
               <br> -  Knex.js for query building, schema building, and data seeding
-              <br> -  Tailwind CSS for styling
               <br> -  PostgreSQL for database management 
 
 
